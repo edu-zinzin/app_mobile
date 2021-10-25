@@ -1,0 +1,27 @@
+Nome dos Integrantes:
+Douglas Teixeira Cobiank
+Eduardo Felipe de Albuquerque Rodrigues
+Thales Galvão de Almeida Leme de Meira
+
+
+Papel no Projeto:
+Eduardo Rodrigues: código-fonte em flutter, telas em geral
+Thales Galvão: Desenvolvimento do Relatório, Tela Diário
+Douglas Teixeira: Desenvolvimento das validações, ideias de projeto 
+
+
+Passo a passo de instalação do app:
+1.Instalar/configurar Flutter
+2.Instalar AndroidStudio
+3.1.Instalar packger Chocolately
+3.2.Instalar/configurar Dart
+4.Clonar repositório do GitHub pelo gitBash:
+5.Configurar Estrutura do projeto
+
+
+Para rodar o Projeto:
+Após baixar o pacote do projeto, ir na raiz e dar um "flutter pub get" para baixar as dependencias automaticamente
+
+
+Bugs e Funcionalidades faltantes:
+Validações dos formulários, e a falta da criação de providers paa as listas de exercícios e de alimentos.
